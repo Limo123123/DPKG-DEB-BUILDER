@@ -1,0 +1,8 @@
+Package: pi-apps
+Version: 1.1
+Section: utils
+Priority: optional
+Architecture: arm64
+Maintainer: DPKG-BUILDER, Original Project from Botspot
+Description: Pi-Apps - A Collection for Apps and Tools
+Depends: yad, curl, wget, aria2, lsb-release, software-properties-common, apt-utils, apt-transport-https, gnupg, imagemagick, bc, librsvg2-bin, locales, shellcheck, git, wmctrl, xdotool, x11-utils, rsync, unzip, debsums, libgtk3-perl
